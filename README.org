@@ -1,0 +1,10 @@
+* static-dispatch
+
+Static generic function dispatch for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/alex-gutev/static-dispatch.git   |
+| commit  | c605f24  |
+| systems | static-dispatch |
+|---------+-------------------------------------------|
+
